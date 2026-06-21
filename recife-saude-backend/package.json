@@ -1,0 +1,13 @@
+{
+  "name": "recife-saude-backend",
+  "version": "1.0.0",
+  "description": "Backend simples para salvar a localizacao do usuario junto com os dados da unidade de saude consultada",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
