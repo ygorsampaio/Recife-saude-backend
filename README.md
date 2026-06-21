@@ -79,4 +79,4 @@ app para mais detalhes).
 
 ## Autor
 
-Nome completo: _[preencher]_
+Nome completo: Ygor Sampaio_
